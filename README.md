@@ -17,7 +17,7 @@ As the technological landscape evolved, so did I. My journey has led me to spear
 
 ## 📈 Professional Experience
 
-- **NorthStar Network**: Lead Senior Laravel Developer, steering complex projects to success with my deep understanding of web technologies and leadership in cross-functional teams.
+- **NorthStar Network**: Senior Laravel Developer, steering complex projects to success with my deep understanding of web technologies and leadership in cross-functional teams.
 - **NexTec Research SAS**: As CEO, I oversee strategic initiatives, pushing the boundaries of software research and development to foster innovation within the tech ecosystem.
 - **Previous Roles**:
   - Engie SA, EDF SA, Sopra Steria SA, and Carrefour Group, where I contributed to significant projects, showcasing my versatility and ability to adapt to different tech environments and challenges.
