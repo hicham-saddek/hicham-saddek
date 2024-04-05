@@ -1,32 +1,31 @@
-# Hicham SADDEK
+# Hicham Saddek
 
-Software Engineer at Sopra Steria Group SA | CTO & Co-Founder at BlaBlaSoiree SAS & UiiBevy SAS | Vice-CEO at Serrahub Technologies Corporation
+## 👨‍💻 About Me
 
-![LaravelBanner](https://user-images.githubusercontent.com/36214361/114315757-a5dd9680-9b00-11eb-8098-7573a993a7eb.png)
+With over 8 years of immersion in the technology sector, I've carved a niche as a software engineer specializing in crafting complex system solutions. My academic foundation is solidified with a Master’s degree in Complex Systems Engineering, with a keen focus on Networks, Signals, and Eco Networking from a prestigious university. This education has not only broadened my understanding but also sharpened my ability to develop, manage, and deploy scalable software solutions adeptly.
 
-## About Me
-Hello! I'm Hicham SADDEK, a dedicated Software Engineer with extensive experience in both Java and PHP development. At present, my main focus is the creation of ManageEL, a robust cPanel clone built using the powerful Laravel framework.
+As the technological landscape evolved, so did I. My journey has led me to spearhead projects as a Senior Laravel Developer at NorthStar Network and take on the visionary role of CEO at NexTec Research SAS. In these positions, I drive innovation, foster development, and turn groundbreaking ideas into reality, all while leading teams towards achieving collective goals.
 
-## Professional Background
-With a strong foundation in PHP, I have actively contributed to various Laravel projects, leveraging the extensive Laravel eco-system to deliver scalable and efficient solutions. My work with Java spans across diverse technologies including Spring, Spring Boot, JPA, and Hibernate, enabling me to develop complex and high-performance enterprise applications.
+## 🛠 Technical Skills
 
-## Skills
-- **PHP, Laravel, Laravel Eco-system**: Extensive experience in leveraging Laravel to create dynamic and feature-rich web applications.
-- **Java, Spring, Spring Boot, JPA, Hibernate, etc.**: Proficient in utilizing Java technologies for enterprise-grade application development.
-- **SQL, MySQL, PostgreSQL, MariaDB, OracleDB, OracleSQL**: Strong command over various SQL databases for efficient data management.
-- **Jenkins, Ansible, Kubernetes, Docker, HyperV, VirtualBox, Vagrant**: Well-versed in deploying and managing applications using modern DevOps tools and virtualization technologies.
-- **HTML, CSS, JavaScript**: Proficient in frontend development technologies for creating interactive and user-friendly web interfaces.
-- **RESTful API Design and Implementation**: Skilled in designing and implementing efficient and scalable RESTful APIs for web applications.
-- **Git, SVN**: Experienced in version control systems for efficient collaboration and code management.
+- **Languages**: Mastered a diverse set of programming languages including PHP, Java, Dart, JavaScript, Go, C++, C#, Ruby, Swift, HTML, CSS, and various shell scripting languages (Bash, SH, Fish) to deliver top-notch solutions across different platforms.
+- **Frameworks**: Proficient in leveraging modern frameworks such as Laravel, Symfony, Flutter, Angular, Vue, ReactJs, and Svelte, ensuring the delivery of efficient, scalable, and responsive applications.
 
-## What I'm Looking For
-I am actively seeking collaborations within the Laravel community, aiming to contribute my expertise to projects that focus on simplifying and enhancing the web application development process.
+## 🏗 Infrastructure Knowledge
 
-## Fun Facts
-1. *It's not a bug, it's an undocumented feature.*
-2. *Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.*
+- Expertise in a wide range of DevOps and infrastructure management tools including Docker, Kubernetes, Vagrant, Terraform, Laravel Forge, and Laravel Envoyer. This comprehensive toolset underpins my capability to architect and maintain resilient, scalable cloud infrastructures that meet rigorous industry standards.
 
-## Contact Me
-- **Email**: hicham.saddek@uiibevy.com | hichamsaddek.stcnet@gmail.com
-- **Phone**: +33(0) 6 11 29 92 21 | +33(0) 6 21 68 61 28
-- **Address**: Hicham SADDEK, 10 Rue Jacques Prevert, Rillieux La Pape 69140, France
+## 📈 Professional Experience
+
+- **NorthStar Network**: Lead Senior Laravel Developer, steering complex projects to success with my deep understanding of web technologies and leadership in cross-functional teams.
+- **NexTec Research SAS**: As CEO, I oversee strategic initiatives, pushing the boundaries of software research and development to foster innovation within the tech ecosystem.
+- **Previous Roles**:
+  - Engie SA, EDF SA, Sopra Steria SA, and Carrefour Group, where I contributed to significant projects, showcasing my versatility and ability to adapt to different tech environments and challenges.
+
+## 🎓 Education
+
+- Master’s Degree in Complex Systems Engineering with a specialization in Networks, Signals, and Eco Networking, equipping me with the theoretical and practical knowledge to tackle the challenges of today's interconnected world.
+
+---
+
+**Connect with me:** [Email](mailto:hicham.saddek@nextec-research.com)
